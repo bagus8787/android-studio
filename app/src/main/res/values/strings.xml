@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">dicoding</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="object_received">Object Received</string>
+    <string name="file_new">File New</string>
+    <string name="file_open">File Open</string>
+    <string name="file_save">File Save</string>
+    <string name="test_sound_pool">Test Sound Pool</string>
+    <string name="play">Play</string>
+    <string name="test_media_player">Test Media Player</string>
+    <string name="recycle_view">Recycle View</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="phone">No Phone</string>
+    <string name="age">Age</string>
+    <string name="love_manchester_united">Love Manchester United ?</string>
+    <string name="save">Save</string>
+    <string name="simpan">Simpan</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="shared_preference">Shared Preference</string>
+    <string name="suka_manchester_united">Suka Manchester United</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="menghitung_luas">Menghitung Luas</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="hapus">Hapus</string>
+    <string name="notes_app">Notes APP</string>
+
+</resources>
